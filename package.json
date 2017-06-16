@@ -1,6 +1,6 @@
 {
   "name": "test_proj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "express": "~4.13.1",
     "express-session": "~1.13.0",
