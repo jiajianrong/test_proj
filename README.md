@@ -1,7 +1,18 @@
-安装测试程序
-
-	cnpm install test_proj_node
+## 使用步骤
 
 
+#### 1 下载代码
 
-[github源码](https://github.com/jiajianrong/test_proj)
+	git clone https://github.com/jiajianrong/test_proj
+
+
+#### 2 安装
+
+	npm install
+
+
+#### 3 使用
+
+	node test_*.js
+
+
