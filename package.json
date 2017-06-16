@@ -1,0 +1,11 @@
+{
+  "name": "test_proj",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "~4.13.1",
+    "express-session": "~1.13.0",
+    "lodash": "^4.16.2",
+    "mongodb": "^2.2.26",
+    "redis": "^2.7.1"
+  }
+}
