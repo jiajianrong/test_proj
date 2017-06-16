@@ -1,6 +1,15 @@
 {
   "name": "test_proj_node",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jiajianrong/test_proj.git"
+  },
+  "author": "jiajianrong",
+  "license": "ISC",
+  "homepage": "https://github.com/jiajianrong/test_proj#readme",
+  
   "dependencies": {
     "express": "~4.13.1",
     "express-session": "~1.13.0",
