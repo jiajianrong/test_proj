@@ -1,6 +1,6 @@
 var RDS_PORT = 6379,
 	RDS_HOST = '192.168.187.85',
-	RDS_OPTS = {};
+	RDS_OPTS = {auth_pass:''};
 	
 
 var redis = require('redis'),
